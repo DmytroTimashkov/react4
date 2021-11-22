@@ -1,0 +1,24 @@
+{
+  "name": "react4",
+  "version": "1.0.0",
+  "description": "react4",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavashikaa/react4.git"
+  },
+  "author": "lavash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavashikaa/react4/issues"
+  },
+  "homepage": "https://github.com/lavashikaa/react4#readme",
+  "dependencies": {
+    "eslint": "^8.3.0",
+    "lodash": "^4.17.21",
+    "prettier": "^2.4.1"
+  }
+}
